@@ -2,42 +2,30 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
-[Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
+# Summary
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Data analytics professional with a Master's degree and hands-on experience delivering performance insights across healthcare and manufacturing environments. Actively transitioning into cybersecurity with a focus on Security Engineering — completing CompTIA Security+ and the TryHackMe Pre-Security learning path. Brings a rare combination of advanced analytical skills, Python and SQL proficiency, and deep experience in regulated operational environments that directly supports threat detection, security data analysis, and incident response workflows.
 
-# Header 1
+## Cybersecurity Training & Certifications
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+> CompTIA Security+ — pending In Progress (Expected 2026)
+> TryHackMe Pre-Security Path — 37% Complete (Networking, Linux, Web Fundamentals)
+> Kali Linux — Installed, actively exploring penetration testing tools
+> DataCamp: Associate Data Engineer in SQL — 28% Complete
+> DataCamp: Data Engineer in Python — 13% Complete
 
-## Header 2
+### Education
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+> M.S. Data Analytics | Davenport University | Expected 2026 | GPA 3.6
+> Relevant Coursework: Applied Statistics, Data Mining, SQL, Data Visualization, Machine Learning Concepts
+> Doctor of Medicine Program | University of Medicine and Health Science | 2023 (Paused — Maternity Leave)
+> B.S. Food Science | University of Tennessee at Knoxville | 2013
 
-### Header 3
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
+#### Experience
 
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
