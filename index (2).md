@@ -22,10 +22,10 @@ Data analytics professional with a Master's degree and hands-on experience deliv
 | Certification | Status |
 |:---|:---|
 | CompTIA Security+ | ⏳ In Progress (Expected 2026) |
-| TryHackMe Pre-Security Path (Networking, Linux, Web) | 🔵 37% Complete |
-| Kali Linux | ✅ Installed — actively exploring pentesting tools |
-| DataCamp: Associate Data Engineer in SQL | 🔵 28% Complete |
-| DataCamp: Data Engineer in Python | 🔵 13% Complete |
+| TryHackMe Pre-Security Path (Networking, Linux, Web) | 37% Complete |
+| Kali Linux | Installed — actively exploring pentesting tools |
+| DataCamp: Associate Data Engineer in SQL |  28% Complete |
+| DataCamp: Data Engineer in Python |  13% Complete |
 
 ---
 
