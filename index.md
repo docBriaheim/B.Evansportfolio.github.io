@@ -1,123 +1,65 @@
----
-layout: default
----
+Briaheim Dimajio Evans
+Email: Briaheim.evans7@gmail.com
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+Phone: +1 (561) 714-7592 | +(354) 785-9548
 
-[Link to another page](./another-page.html).
+Location: Reykjavík, Iceland
+M.S. Data Analytics | Aspiring Security Engineer | CompTIA Security+ In Progress | TryHackMe | Kali Linux
 
-There should be whitespace between paragraphs.
+Professional Summary
+Data analytics professional with a Master's degree and hands-on experience delivering performance insights across healthcare and manufacturing environments. Actively transitioning into cybersecurity with a focus on Security Engineering, currently completing CompTIA Security+ and the TryHackMe Pre-Security learning path. Brings a rare combination of advanced analytical skills, Python and SQL proficiency, and an understanding of regulated operational environments that directly supports threat detection, security data analysis, and incident response workflows.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Cybersecurity Training & Certifications
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+CompTIA Security+ — In Progress (Expected 2026)
+TryHackMe Pre-Security Learning Path — 37% Complete (Networking, Linux, Web Fundamentals)
+Kali Linux — Installed and actively exploring penetration testing tools
+DataCamp: Associate Data Engineer in SQL — 28% Complete
+DataCamp: Data Engineer in Python — 13% Complete
 
 
-### Definition lists can be used with HTML syntax.
+Education
+M.S. Data Analytics | Davenport University | Expected 2026 | GPA 3.6
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+Relevant Coursework: Applied Statistics, Data Mining, SQL, Data Visualization, Machine Learning Concepts
+Doctor of Medicine Program | University of Medicine and Health Science | 2023 (Paused — Maternity Leave)
+B.S. Food Science | University of Tennessee at Knoxville | 2013
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+Professional Experience
+Shift Supervisor | Grund Nursing Home, Reykjavík, Iceland | 2021 – Present
 
-```
-The final element.
-```
+Managed operational workflows in a regulated healthcare environment requiring strict data governance and compliance protocols, directly analogous to healthcare cybersecurity frameworks (HIPAA)
+Generated structured performance reports for operational decision-making, developing skills in data integrity and accuracy critical to security reporting
+Coordinated staffing and resource allocation using structured data, demonstrating ability to manage sensitive operational information
+
+Senior Manufacturing Resource | Tropicana Inc., Ft. Pierce, FL | 2015 – 2018
+
+Led business intelligence analysis of production and staffing data, identifying $155,000 in annual efficiency savings, demonstrating the analytical skills core to threat and risk analysis
+Developed manpower scheduling logic and performance dashboards used by management, building proficiency in data pipeline design and visualization now applied to security data workflows
+Produced management-facing reports requiring data accuracy, stakeholder communication, and documentation, skills transferable to incident reporting and SOC operations
+
+Manufacturing Associate | Tropicana Inc., Ft. Pierce, FL | 2013 – 2015
+
+Generated daily yield loss and production dashboards used for operational monitoring, developing foundational skills in anomaly detection and data-driven alerting
+
+Food Manufacturing Intern | Tropicana Inc., Ft. Pierce, FL | 2013
+
+Supported data collection for waste reduction and process improvement initiatives
+
+Lab Assistant | University of Tennessee, Food Chemistry & Microbiology Lab | 2010 – 2013
+
+Assisted with structured data collection and documentation in a controlled research environment
+
+
+Technical Skills
+Security Tools: Kali Linux, TryHackMe (Pre-Security), Networking Fundamentals
+Programming & Data: Python, SQL, scikit-learn
+BI & Visualization: Power BI, Tableau, Microsoft Excel (Pivot Tables, VLookups)
+Business Tools: Microsoft Visio, PowerPoint, Kronos Workforce Management
+Concepts: Network Security, Linux CLI, Web Fundamentals, Threat Detection, Data Governance, Compliance (HIPAA-adjacent)
+
+Domain Expertise
+Healthcare Operations · Security Data Analysis · Manufacturing Analytics · Workforce Scheduling · Lean Process Improvement · Quality Management Systems
+
+Languages
+English (Native) · Danish · IcelandicShareContentBriaheim Evans Cybersecurity Resume.docxdocxindex (1).md124 linesmd
