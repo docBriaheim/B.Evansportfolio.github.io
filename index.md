@@ -25,7 +25,8 @@ Data analytics professional with a Master's degree and hands-on experience deliv
 
 
 
-#### Experience
+### Experience
+
 Shift Supervisor — Grund Nursing Home, Reykjavík, Iceland | 2021 – Present
 
 > Managed operational workflows in a regulated healthcare environment requiring strict data governance and compliance protocols — directly analogous to HIPAA cybersecurity frameworks
@@ -52,7 +53,7 @@ Lab Assistant — University of Tennessee, Food Chemistry & Microbiology Lab | 2
 
 > Assisted with structured data collection and documentation in a controlled research environment
 
-##### Techical Skills
+#### Techical Skills
 
 > Security Tools   : Kali Linux | TryHackMe (Pre-Security) | Networking Fundamentals
 
@@ -64,7 +65,7 @@ Lab Assistant — University of Tennessee, Food Chemistry & Microbiology Lab | 2
 
 > Concepts         : Network Security | Linux CLI | Web Fundamentals | Threat Detection Data Governance | Compliance (HIPAA-adjacent)
                    
-###### Domain Expertise
+### Domain Expertise
 
 > Healthcare Operations
 
@@ -78,7 +79,7 @@ Lab Assistant — University of Tennessee, Food Chemistry & Microbiology Lab | 2
 
 > Quality Management Systems
 
-####### Languages
+### Languages
 
 > English (Native)
 
