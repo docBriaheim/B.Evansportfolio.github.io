@@ -54,15 +54,15 @@ Lab Assistant — University of Tennessee, Food Chemistry & Microbiology Lab | 2
 
 ##### Techical Skills
 
-Security Tools   : Kali Linux | TryHackMe (Pre-Security) | Networking Fundamentals
+> Security Tools   : Kali Linux | TryHackMe (Pre-Security) | Networking Fundamentals
 
-Programming      : Python | SQL | scikit-learn
+> Programming      : Python | SQL | scikit-learn
 
-BI & Visual      : Power BI | Tableau | Excel (Pivot Tables, VLookups)
+> BI & Visual      : Power BI | Tableau | Excel (Pivot Tables, VLookups)
 
-Business Tools   : Microsoft Visio | PowerPoint | Kronos Workforce Management
+> Business Tools   : Microsoft Visio | PowerPoint | Kronos Workforce Management
 
-Concepts         : Network Security | Linux CLI | Web Fundamentals | Threat Detection Data Governance | Compliance (HIPAA-adjacent)
+> Concepts         : Network Security | Linux CLI | Web Fundamentals | Threat Detection Data Governance | Compliance (HIPAA-adjacent)
                    
 ###### Domain Expertise
 
