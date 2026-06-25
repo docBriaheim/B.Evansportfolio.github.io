@@ -26,86 +26,65 @@ Data analytics professional with a Master's degree and hands-on experience deliv
 
 
 #### Experience
+Shift Supervisor — Grund Nursing Home, Reykjavík, Iceland | 2021 – Present
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+> Managed operational workflows in a regulated healthcare environment requiring strict data governance and compliance protocols — directly analogous to HIPAA cybersecurity frameworks
 
-##### Header 5
+> Generated structured performance reports for operational decision-making, developing skills in data integrity and accuracy critical to security reporting
+Coordinated staffing and resource allocation using structured data, demonstrating ability to manage sensitive operational information
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+Senior Manufacturing Resource — Tropicana Inc., Ft. Pierce, FL | 2015 – 2018
 
-###### Header 6
+> Led business intelligence analysis of production and staffing data, identifying $155,000 in annual efficiency savings — demonstrating analytical skills core to threat and risk analysis
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+> Developed manpower scheduling logic and performance dashboards, building proficiency in data pipeline design and visualization now applied to security data workflows
+Produced management-facing reports requiring data accuracy, stakeholder communication, and documentation — transferable to incident reporting and SOC operations
 
-### There's a horizontal rule below this.
+Manufacturing Associate — Tropicana Inc., Ft. Pierce, FL | 2013 – 2015
+
+> Generated daily yield loss and production dashboards for operational monitoring, developing foundational skills in anomaly detection and data-driven alerting
+
+Food Manufacturing Intern — Tropicana Inc., Ft. Pierce, FL | 2013
+
+> Supported data collection for waste reduction and process improvement initiatives
+
+Lab Assistant — University of Tennessee, Food Chemistry & Microbiology Lab | 2010 – 2013
+
+> Assisted with structured data collection and documentation in a controlled research environment
+
+##### Techical Skills
+
+Security Tools   : Kali Linux | TryHackMe (Pre-Security) | Networking Fundamentals
+
+Programming      : Python | SQL | scikit-learn
+
+BI & Visual      : Power BI | Tableau | Excel (Pivot Tables, VLookups)
+
+Business Tools   : Microsoft Visio | PowerPoint | Kronos Workforce Management
+
+Concepts         : Network Security | Linux CLI | Web Fundamentals | Threat Detection Data Governance | Compliance (HIPAA-adjacent)
+                   
+###### Domain Expertise
+
+> Healthcare Operations
+
+> Security Data Analysis
+
+> Manufacturing Analytics
+
+> Workforce Scheduling
+
+> Lean Process Improvement
+
+> Quality Management Systems
+
+####### Languages
+
+> English (Native)
+
+> Danish (B1)
+
+> Icelandic (A2)
 
 * * *
 
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
