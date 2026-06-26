@@ -116,5 +116,5 @@ Web Fundamentals
 
 > Icelandic (A2)
 
-* * *
+
 
